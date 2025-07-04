@@ -1,5 +1,5 @@
 Currently, this is an app that simulates a bank login screen and includes only a deposit function, with a maximum deposit limit of $100.
-```
+
 Make sure to run these commands in the "Bank_System" directory:
 ```
 make         # Builds the app in app/  
